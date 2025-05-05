@@ -1,5 +1,18 @@
-## Olá, meu nome é Lucas Lima!
+# Github - Lucas Lima
 
-###Ola
+Seja bem-vindo ao meu github! 
 
-#### Ola
+## Sobre mim
+- 📚 **Universitário:** Sistemas de Informação, na Puc-Contagem
+- 🎮 **Hobbies:** Teclado, violão, jogos e fotografia
+- 💬 **Idiomas:** Português e aprendendo Inglês
+- 💡 **Estudando:** C#, Html e CSS e Javascript
+
+## Habilidades
+
+
+-🔧 **Ferramentas:** VsCode e Git 
+
+## Contatos
+
+- lucascesarlimaral@gmail.com
